@@ -1,4 +1,4 @@
-![mountains](https://github.com/houleyemballo/houleyemballo/blob/main/Wonderful%20Winter%20Email%20Header.png?raw=true)
+
 
 ### Hi there, I'm Jennifer 👋
 
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![mountains](https://github.com/houleyemballo/houleyemballo/blob/main/Wonderful%20Winter%20Email%20Header.png?raw=true)
 -->
