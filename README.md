@@ -1,3 +1,5 @@
+![mountains](Wonderful\ Winter\ Email\ Header.png)
+
 ### Hi there, I'm Jennifer 👋
 
 <!--
