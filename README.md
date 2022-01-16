@@ -2,6 +2,18 @@
 
 ### Hi there, I'm Jennifer 👋
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jennifer-c-a0a84221b/)
+
+Experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, computer vision, and NLP. With a background in environmental biology and management in agriculture, I bring strong skills in team building and project management that help innovative companies make a difference.
+---
+### Technical Skills
+
+- Languages: Python, SQL, C
+- Predictive Modeling: Linear/Logistic Regression, Classification, Clustering, Decision Tree, Random Forest, Support Vector Machines, K-Nearest Neighbors, ARIMA
+- Machine Learning: Deep Learning, Neural Networks, Image Processing, Keras, TensorFlow, Time Series, YOLO
+- Databases: MySQL, PostgreSQL, SQLite
+- Data Visualization: Matplotlib, Seaborn, PowerBI
+- Environments: Google Colab, Jupyter Notebook, Visual Studio Code
+- Data Science Methods: Obtaining, Cleaning/Scrubbing, Exploration, Modeling, Visualization, Storytelling
 ---
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
